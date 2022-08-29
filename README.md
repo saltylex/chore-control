@@ -1,7 +1,7 @@
 # 🗞️ Chore Control
 
 ## Disclaimer
-I do not condone the violation of user privacy. This is an experimental application. ^o^
+I do not condone the violation of user privacy. This is an experimental application meant to raise awareness on the relevance of data protection. ^o^
 
 ---
 
