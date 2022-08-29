@@ -1,5 +1,10 @@
 # 🗞️ Chore Control
 
+## Disclaimer
+I do not condone the violation of user privacy. This is an experimental application. ^o^
+
+---
+
 ## 'Are we just pretending to apply the GDPR?' anecdote
 You work a mundane office job in your city. However, after getting sick of all the *gossip* amongst your coworkers and the *countless headache-inducing deadlines*, you decide to apply to another similar, but better paying job. **Magically**, your application is successful, such that you are going to be leaving your current job the following week. 
 
