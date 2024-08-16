@@ -3,7 +3,7 @@
 ## Overview
 
 This project is a data-driven task management tool engineered to streamline chore assignments and track progress within teams. The project leverages Python and CSV integration to provide easy performance monitoring. Written using Python 3.9.
-
+ 
 ## Setup & Installation
 
 1. Clone the repository:
