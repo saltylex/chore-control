@@ -23,3 +23,7 @@ This project is a data-driven task management tool engineered to streamline chor
 
 - `main.py`: Core logic for data parsing, task distribution, and analytics.
 - `employees_codes.csv` & `tasks_codes.csv`: Sample data inputs for chore and employee assignment.
+
+### Note
+
+This project is old. It was written in 2021, and it is here only for showcase purposes. Check out my more recent projects! 
