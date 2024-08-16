@@ -43,19 +43,18 @@ def start():
     read_employee_data()
     read_chore_data()
     name = input("Hello! Who are you?: ")
-    if name != "Darcy":
+    if name != "Manager":
         print("Good for you. Goodbye!")
         exit(0)
-    print("Welcome, manager Darcy!")
+    print("Welcome, Manager!")
     while True:
         print("MENU\n1. Show all employees\n2. Statistics\n3. Exit\n")
         try:
             option = int(input("Option: "))
         except ValueError:
             continue
-        #  I am working in Python 3.9, and it will show because of the lack of switches. literally no switches
         if option == 3:
-            print(f"Goodbye, manager Darcy!")
+            print(f"Goodbye, Manager!")
             exit(0)
         elif option == 1:
             for e in employee_codes:
